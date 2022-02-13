@@ -17,3 +17,4 @@ hello git!
 hello git!master test
 hello git! hot test
 hello git!
+git remote write!
