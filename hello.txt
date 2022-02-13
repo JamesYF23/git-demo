@@ -19,3 +19,4 @@ hello git! hot test
 hello git!
 git remote write!
 cloen update
+new cloen
